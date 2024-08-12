@@ -73,3 +73,7 @@ Contributing
 Contributions are welcome! Please read our `Code of Conduct
 <https://github.com/adafruit/Adafruit_CircuitPython_SI5351/blob/main/CODE_OF_CONDUCT.md>`_
 before contributing to help this project stay welcoming.
+
+
+JIZE added below---
+access si5351 with ch341a, and tested !!  unzip PYCHARM_PJS_py_si5351a.zip  ,main file   example_si5351.py
